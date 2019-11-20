@@ -4,7 +4,7 @@ Pytorch Implementation of Google-DeepDream
 ```
 
 # Introduction in Chinese
-prepare
+https://mp.weixin.qq.com/s/iIhiMKutVtYEUgAiErLkVQ
 
 # Environment
 ```
