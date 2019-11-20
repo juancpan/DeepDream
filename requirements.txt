@@ -1,0 +1,7 @@
+torch==0.4.1
+torchvision==0.2.2
+opencv-python
+pillow
+argparse
+scipy
+numpy
