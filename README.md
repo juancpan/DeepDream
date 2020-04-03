@@ -1,17 +1,17 @@
 # DeepDream
 ```
 Pytorch Implementation of Google-DeepDream
+You can star this repository to keep track of the project if it's helpful for you, thank you for your support.
 ```
 
-# Introduction in Chinese
+# Introduction
+#### in Chinese
 https://mp.weixin.qq.com/s/iIhiMKutVtYEUgAiErLkVQ
 
 # Environment
 ```
 OS: Ubuntu 16.04
 Graphics card: Titan xp
-cuda version: 10.0.130
-cudnn version: 7.0.4
 Python: python3.x with the packages in requirements.txt
 ```
 
@@ -23,11 +23,11 @@ python train.py --imagepath imgs/sky1024px.jpg
 python train.py --imagepath imgs/sky1024px.jpg --controlimagepath imgs/flowers.jpg --iscontrolled
 ```
 
-# Some Results
+# Results
 #### uncontrolled
-![img](./material/unsupervise.jpg)
+![img](./docs/unsupervise.jpg)
 #### controlled
-![img](./material/supervise.jpg)
+![img](./docs/supervise.jpg)
 
 # Reference
 ```
@@ -38,4 +38,4 @@ python train.py --imagepath imgs/sky1024px.jpg --controlimagepath imgs/flowers.j
 # More
 #### WeChat Official Accounts
 *Charles_pikachu*  
-![img](./material/pikachu.jpg)
+![img](./docs/pikachu.jpg)
